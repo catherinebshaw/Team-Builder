@@ -64,7 +64,7 @@ If you have any questions, please contact Catherine Shaw by email or on GitHub:
 
 ## Mock-Up 
 
-![Mock Up](file:///Users/catherine.shaw/Desktop/Bootcamp/Team-Builder/Develop/output/team.html)
+![Mock Up](https://github.com/catherinebshaw/Team-Builder/blob/main/Assets/Team_image.png)
 
 ## Live-Site
 

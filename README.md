@@ -36,6 +36,9 @@ npm inquirer
 
 Users will be guided through a series of propts asking for contact information on team members, starting with the Manager. After the Manager is complete, the user will be asked if they would like to add an Intern or an Engineer. The user can add as many team members as they would like and conclude the program by selecting "I am done creating my team". The program then generates an html page called 'team.html" which is located in the output folder.
 
+The following video provides a summary of the process:
+[video](https://drive.google.com/file/d/1x1gzhfeq8006sG1N6TRjsEqqgkxzP2wh/view)
+
 ## Contribution
 
 Not Applicable

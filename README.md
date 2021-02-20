@@ -29,7 +29,7 @@ This application allows users to quickly build a website that displays the conta
 
 This application uses the following supportive technologies: 
 ```
-undefined
+npm jest, npm inquirer
 ```
 
 ## Usage

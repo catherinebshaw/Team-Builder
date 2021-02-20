@@ -23,10 +23,13 @@ h1{
     margin: 10px;
     width: 300px;
     border: 1px solid grey;
-    box-shadow: 20px, 10px grey;
 }
 
 a:hover {
     color: darkblue;
 
+}
+
+div.card {
+    box-shadow: 5px 5px grey;
 }

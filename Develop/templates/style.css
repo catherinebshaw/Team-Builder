@@ -1,0 +1,32 @@
+#header {
+    background-color:blue;
+    color: white;
+
+}
+#jumbo {
+    margin: 0px;
+}
+
+.jumbotron {
+    background-color: red;
+    margin: 0;
+}
+
+
+h1{ 
+    font-size: 40px;
+    color: white; 
+}
+
+#card {
+
+    margin: 10px;
+    width: 300px;
+    border: 1px solid grey;
+    box-shadow: 20px, 10px grey;
+}
+
+a:hover {
+    color: darkblue;
+
+}

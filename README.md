@@ -5,7 +5,7 @@
 
 * [Description](#Description)
 
-* [Installation](#Installation)
+* [Technology Used](#Technology Used)
 
 * [Usage](#Usage)
 

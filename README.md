@@ -69,7 +69,3 @@ If you have any questions, please contact Catherine Shaw by email or on GitHub:
 
 ![Mock Up](https://github.com/catherinebshaw/Team-Builder/blob/main/Assets/Team_image.png)
 
-## Live-Site
-
-[Team Builder](https://catherinebshaw.github.io/team-builder/)
-
